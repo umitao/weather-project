@@ -1,0 +1,8 @@
+li {
+    list-style-type: decimal;
+}
+
+#app {
+    width: 50%;
+    margin: 0 auto;
+}
